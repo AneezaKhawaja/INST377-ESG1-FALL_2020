@@ -1,8 +1,8 @@
 // Lecture 4 code for javascript testing
 console.log('Hello World');
 
-let firstName = 'Bill'; // String literal
-let lastName = 'Farmer';
+let firstName = 'Aneeza'; // String literal
+let lastName = 'Khawaja';
 
 console.log(firstName);
 
@@ -10,7 +10,7 @@ const interestRate = 0.3;
 //interestRate = 1;
 console.log(interestRate);
 
-let age = 30; //Number literal
+let age = 21; //Number literal
 console.log(age)
 let isApproved = true; // Boolean literal
 console.log(isApproved)
@@ -22,9 +22,9 @@ age = null;
 console.log(age)
 
 let person = {
-    firstName: 'Bill',
-    lastName: 'Farmer',
-    age: 30
+    firstName: 'Aneeza',
+    lastName: 'Khawaja',
+    age: 21
 };
 
 console.log(person.firstName);
